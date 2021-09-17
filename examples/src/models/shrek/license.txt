@@ -1,0 +1,11 @@
+Model Information:
+* title:	Shrek Walk Cycle
+* source:	https://sketchfab.com/3d-models/shrek-walk-cycle-cd5a1e1cd7dd4effa3df11bcaea915f4
+* author:	fredbear1211 (https://sketchfab.com/fredbear1211)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Shrek Walk Cycle" (https://sketchfab.com/3d-models/shrek-walk-cycle-cd5a1e1cd7dd4effa3df11bcaea915f4) by fredbear1211 (https://sketchfab.com/fredbear1211) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
